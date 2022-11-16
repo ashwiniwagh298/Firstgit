@@ -4,6 +4,7 @@ public class atminter
 {
     public static void main(String args[] )  
         {  
+    	//atm
             int balance = 100000, withdraw, deposit;  
             Scanner sc = new Scanner(System.in);  
             
